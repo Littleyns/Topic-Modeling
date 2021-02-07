@@ -1,0 +1,1207 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/40122004
+
+Supply Chain Management: theory and practices
+Article · January 2004
+Source: OAI
+
+CITATIONS
+
+READS
+
+17
+
+148,911
+
+1 author:
+Jack Van der Vorst
+Wageningen University & Research
+266 PUBLICATIONS 6,546 CITATIONS
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Qpork-chains View project
+
+Robust food supply supply chains View project
+
+All content following this page was uploaded by Jack Van der Vorst on 04 June 2014.
+The user has requested enhancement of the downloaded file.
+
+Supply Chain Management: theory and
+practices
+Dr. Ir. J.G.A.J. van der Vorst
+
+Contents
+1.
+Introduction........................................................................................................................ 2
+2.
+What is a supply chain? ....................................................................................................... 2
+2.1. Definition of a supply chain .............................................................................................. 2
+2.2.
+2.3.
+
+Hiccups in the traditional supply chain: the bullwhip effect ................................................. 3
+Causes of the bullwhip effect and potential solutions ......................................................... 5
+What is Supply Chain Management? ..................................................................................... 6
+
+3.1.
+3.2.
+3.3.
+
+Definition of Supply Chain Management?........................................................................... 6
+Key decisions in Supply Chain Management....................................................................... 7
+The trade-off between efficiency and responsiveness ......................................................... 9
+
+3.
+
+3.4.
+
+Benefits of Supply Chain Management ............................................................................ 12
+4.
+Practices in Supply Chain Management............................................................................... 12
+4.1. An overview .................................................................................................................. 12
+4.2.
+4.3.
+4.4.
+5.
+6.
+
+Collaborative demand planning and replenishment........................................................... 13
+Collaborative production................................................................................................. 16
+Collaborative logistics planning ....................................................................................... 16
+Concluding remarks ........................................................................................................... 17
+References ....................................................................................................................... 18
+
+In: Theo Camps, Paul Diederen, Gert Jan Hofstede, Bart Vos (eds) (2004), The Emerging
+World of Chains & Networks, Elsevier, Hoofdstuk 2.1
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 1
+
+Supply Chain Management: theory and
+practices
+Dr. Ir. Jack G.A.J. van der Vorst
+
+1. Introduction
+Fierce competition in today’s global markets, the introduction of products with short life
+cycles, and the heightened expectations of customers have forced business enterprises to invest in,
+and focus attention on, the relationships with customers and suppliers (Simchi-Levi et al., 2000).
+Supply Chain Management (SCM) has become part of the senior management agenda since the
+1990s. Executives are becoming aware that the successful coordination, integration and management
+of key business processes across members of the supply chain will determine the ultimate success of
+the single enterprise (Van der Vorst, 2000). According to Christopher (1998) businesses no longer
+compete as solely autonomous entities, but rather as supply chains. The increased interest in SCM
+has been spurred by developments in Information and Communication Technology (ICT) that enable
+the frequent exchange of huge amounts of information for coordination purposes. Consequently,
+there is a need and an opportunity for a joint approach of chain partners towards the establishment
+of more effective and efficient supply chains.
+This chapter presents an overview of the background, theory and current practices of SCM in
+primarily industrial supply chains that produce, trade and distribute merchandise. First, we explore
+the concept ‘supply chain’ and discuss its hiccups and potential improvements. Section 3 discusses
+the key decisions and benefits of SCM. Section 4 presents an overview of current practices in SCM.
+We end this chapter with some concluding remarks.
+
+2. What is a supply chain?
+2.1. Definition of a supply chain
+In this chapter we take a process view, which means we look at a supply chain as a sequence of
+(decision making and execution) processes and (material, information and money) flows that aim to
+meet final customer requirements and take place within and between different supply chain stages.
+The supply chain not only includes the manufacturer and its suppliers, but also (depending on the
+logistics flows) transporters, warehouses, retailers, and consumers themselves. It includes, but is not
+limited to, new product development, marketing, operations, distribution, finance, and customer
+service (Chopra and Meindl, 2001). Figure 1 depicts a generic supply chain within the context of the
+total supply chain network. Each firm belongs to at least one supply chain: i.e. it usually has multiple
+suppliers and customers.
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 2
+
+Supplier
+.
+
+Supplier
+
+Manufacturer
+
+Retailer
+
+Consumer
+Consumer
+
+.
+
+Distributor
+Manufacturer
+
+Consumer
+Retailer
+
+Distributor
+Supplier
+
+Manufacturer
+
+Retailer
+
+Consumer
+
+Figure 1. Schematic diagram of a supply chain (shaded) within the total supply chain network.
+The traditional view on a supply chain is the cycle view (Chopra and Meindl, 2001). In this view
+the processes in a supply chain are divided into a series of cycles, each performed at the interface
+between two successive stages of a supply chain. This means that each cycle is decoupled from other
+cycles via an inventory so it can function independently, optimise its own processes and is not
+hindered by ‘problems’ in other cycles. For example, a cycle that replenishes retailer inventories by
+delivering products from the manufacturers end-product inventory and a cycle that takes care of
+replenishing the manufacturers inventory by producing new end-products. A cycle view of the supply
+chain clearly defines the processes involved and the owners of each process (hence roles and
+responsibilities). Although this might seem a satisfactory situation, the next section will discuss some
+negative effects from a supply chain perspective.
+Box 1. Example of a food supply chain
+Albert Heijn (AH), one of the leading retailers in the Netherlands, has to provide over 650 stores with the right
+products at the right time depending on the needs of the customers. Each of these stores receives daily
+deliveries from a national (for non-fresh products) and from one of the four regional distribution centres (for
+fresh products). On average each store carries about 15.000 different kinds of articles. Therefore, a large
+number of manufacturers is required to replenish inventory levels at the distribution centres. And again, each
+manufacturer has many suppliers who deliver key components for the manufacturing process. Often, the
+transport is arranged via a third-party logistic service provider.
+
+2.2. Hiccups in the traditional supply chain: the bullwhip effect
+The Beer Distribution Game is a management game developed at MIT’s Sloan School of
+Management in the USA (Forrester, 1961) to give managers and students insight in the consequences
+of managerial actions in successive stages of a supply chain. It provides an exceptional means of
+illustrating the impact of a supply chain view on supply chain performance and it is often referred to
+in SCM literature as the starting point of supply chain research.
+The Beer Distribution Game is a role-playing game in which the participants have to minimise
+costs by managing inventory levels in a production-distribution chain. The game consists of four
+supply chain stages: retailer, wholesaler, distributor and producer (Figure 2). Each sector has its own
+small buffer stock to protect it against random fluctuations in final consumption. All a sector has to do
+is to fill the orders it receives from its direct customer, and then decide how much it wants to order
+from its supplier. The game is designed so that each sector has good local information but severely
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 3
+
+limited global (chain) information about inventory levels and orders. This means that only the retailer
+knows real end customer demand. It takes two weeks to mail an order and two weeks to ship the
+requested amount of beer from one sector to the next. It is not possible to cancel orders. Stock out
+costs (associated with the possibility of losing customers) are twice as high as inventory carrying
+costs. The objective of the game is to minimise the total sum of costs of all sectors in the beer supply
+chain.
+orders
+
+orders
+
+orders
+Retail
+Retail Store
+Store
+
+goods
+
+goods
+
+Producer
+
+goods
+
+goods
+
+Distributor
+
+Wholesaler
+
+Retailer
+
+Figure 2. The beer supply chain.
+
+The results of this game after 50 weeks of play are remarkable. Although consumer demand
+is only doubled once in week 5, huge order fluctuations and oscillations take place in the SC. Usually
+when playing the game, the producer receives demand patterns with 900% amplification compared
+to end consumer demand fluctuations (see Figure 3). Furthermore, huge stock outs occur at the
+retailer. When this game is played with different people (students or managers) but the same
+structure, similar results are produced. Even though the participants act very differently as individuals
+in ordering inventory, the overall (qualitative) patterns of behaviour are still the same: oscillation and
+amplification of order patterns and a phase lag in reaction time resulting in bad delivery performances
+and high costs. The further upstream the supply chain, the larger the variation in demand.
+
+Order pattern
+40
+
+35
+
+30
+
+Order quantity
+
+Retailer
+25
+
+Wholesaler
+20
+
+Distributor
+Factory
+
+15
+
+10
+
+5
+
+50
+
+47
+
+44
+
+41
+
+38
+
+35
+
+32
+
+29
+
+26
+
+23
+
+20
+
+17
+
+14
+
+7
+
+10
+
+4
+
+1
+
+0
+
+Weeknr
+
+Figure 3 The Forrester or bullwhip effect.
+
+This phenomenon in which orders to the supplier tend to have larger variance than orders from
+the buyer, and the distortion propagates upstream in an amplified form (i.e. variance amplification) is
+called the Forrester effect (Towill, 1997), named after the person who discovered it, or the Bullwhip
+effect (Lee et al., 1997), named for the variations in reaction down the length of a whip after it is
+cracked. The effect has serious cost implications. The increased variability in the order process (i)
+requires each facility to increase its safety stock in order to maintain a given service level, (ii) leads to
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 4
+
+increased costs due to overstocking throughout the system, and (iii) can lead to an inefficient use of
+resources, such as labour and transportation, due to the fact that it is not clear whether resources
+should be planned based on the average order received by the facility or based on the maximum
+order (Chen et al., 1999). Furthermore, material shortages can occur due to poor product forecasting.
+
+2.3. Causes of the bullwhip effect and potential solutions
+The amplification is not caused by external factors (e.g. consumer demand) but created by the
+parties in the supply chain themselves. The main causes are the perceived demand, the quality of
+information and the inherent delays that may be found within the supply chain (Lewis and Naim,
+1995). There is no timely information on changes in demand and one has to deal with a long lead
+time between placing an order and receiving the products. Because of this long lead time, the
+reaction time is too long; in the game it takes over 4 weeks to respond to sudden changes in
+demand. This also leads to ‘misperceptions of feedback’, i.e. subjects tend to disregard the inventory
+in the pipeline they ordered earlier and keep on ordering more (Sterman, 1989). Next to these
+aspects Lee et al (1997) found a number of additional causes in real-life supply chains:
+?? order batching due to economies of scale in ordering (quantity discounts) and transportation
+(full truck loads) and the use of periodic planning systems;
+?? price fluctuations driven by promotions; and
+?? rationing and shortage gaming; i.e. the incentive to increase orders during shortages, place
+orders with multiple firms, and cancel orders once inventory arrives.
+Several redesign strategies are proposed to reduce demand amplification and improve supply
+chain performance:
+?? Eliminate all time delays in goods and information flows from the supply chain;
+?? Exchange information concerning true market demand with parties upstream the supply
+chain;
+?? Remove one or more intermediate echelons in the supply chain by business take-over;
+?? Improve the decision rules at each stage of the supply chain: modify the order quantity
+procedures or their parameters.
+Evans et al. (1995) quantified the impact of these improvement options and showed that the
+performance could be drastically improved if the configuration and operational management of the
+supply chain, the essence of SCM, is changed (Table 1).
+Table 1. Implications of redesign strategies for the Beer Distribution Game (Evans et al., 1995)
+Scenario
+Base case Beer Distribution Game
+No ordering delays
+No intermediaries between producer - retailer
+Producer has access to consumer demand data
+All stages have access to consumer demand data
+
+Total chain cost
+3358
+1944
+939
+2295
+1293
+
+Costs index
+1.47
+0.85
+0.82
+1.01
+0.57
+
+Demand amplification (%)
+900
+500
+350
+425
+200
+
+Current research shows that the bullwhip effect is still present in all kinds of supply chains (food,
+health, insurance, and so on). Current designs of supply chains are still causing inefficiencies and
+inflexibility. To improve supply chain performance, a new way of managing the supply chain is
+required that focuses on the alignment of supply chain processes: i.e. SCM.
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 5
+
+3. What is Supply Chain Management?
+3.1. Definition of Supply Chain Management ?
+The term ‘Supply Chain Management’ is relatively new. It first appeared in logistics literature in 1982
+as an inventory management approach with an emphasis on the supply of raw materials (Oliver and
+Webber, 1982). Around 1990, academics first described SCM from a theoretical standpoint to clarify
+how it differed from more traditional approaches to managing the flow of materials and the
+associated flow of information (Cooper and Ellram, 1993; see Table 2). Literature on SCM stresses the
+need for collaboration among successive actors, from primary producer to final consumers, to better
+satisfy consumer demand at lower costs (see, for example, Bechtel and Jayaram, 1997; Lambert and
+Cooper, 2000). A driving force behind SCM is the recognition that sub-optimisation occurs if each
+organisation in a supply chain attempts to optimise its own results rather than to integrate its goals
+and activities with other organisations to optimise the results of the chain (Cooper et al., 1997). SCM
+focuses on the management of relationships. We define SCM as follows:
+SCM is the integrated planning, co-ordination and control of all business processes 1 and activities in
+the supply chain to deliver superior consumer value at less cost to the supply chain as a whole whilst
+satisfying requirements of other stakeholders in the supply chain (e.g. government and NGO’s) .
+Value is the amount consumers are willing to pay for what a company provides and it is
+measured by total revenue. The concept ‘value-added activity’ originates from Porter’s ‘value chain’
+framework and characterizes the value created by an activity in relation to the cost of executing it
+(Porter, 1985).
+Table 2. Characteristics of SCM according to Cooper and Ellram (1993)
+Element
+Inventory management approach
+Total cost approach
+Time horizon
+Amount of information sharing and
+monitoring
+Amount of co-ordination of multiple
+levels in the channel
+Joint planning
+Compatibility of corporate philosophies
+Breadth of supplier base
+Channel leadership
+Amount of sharing of risks & rewards
+Speed of operations, information and
+inventory flows
+
+Traditional Management
+Independent efforts
+Minimise firm costs
+Short term
+Limited to needs of current transactions
+
+Supply Chain Management
+Joint reduction in channel inventories
+Channel-wide cost efficiencies
+Long term
+As required for planning and monitoring
+purposes
+Multiple contacts between levels in firms
+and levels of channel
+On-going
+Compatible at least for key relationships
+Small to increase co-ordination
+
+Single contact for the transaction
+between channel pairs
+Transaction-based
+Not relevant
+Large to increase competition and
+spread risk
+Not needed
+Needed for co-ordination focus
+Each on its own
+Risks & rewards shared over longer term
+‘Warehouse’ orientation (storage, safety ‘DC’ orientation (turnover speed).
+stock). Interrupted by barriers to
+Interconnecting flows; JIT, Quick
+flows. Localised to channel pairs
+Response across the channel
+
+It is worth noting that a growing number of terms are being utilized by individuals and
+organisations that are presented as being more appropriate, comprehensive and/or advanced than
+SCM. Such terms include demand chain management (to distinguish it from the type of management
+in which ‘supply’ begins and drives the chain of activities), and value chain management or value
+1
+
+A business process can be defined as a structured measured set of activities designed to produce a specified
+output for a particular customer or market (Davenport, 1993). For example, order fulfilment, demand
+management or product development.
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 6
+
+networks (to emphasise the value-added focus on processes). Since in our view the essence of these
+terms is alike, we will employ the most commonly used term SCM in this chapter as a representative
+for all these terms.
+
+3.2. Key decisio ns in Supply Chain Management
+Lambert and Cooper (2000) distinguish three key decisions in SCM, summarised in Figure 4. The
+conceptual framework emphasizes the interrelated nature of SCM and the need to proceed through
+several steps to design and successfully manage a supply chain. Each step is directly related to the
+supply chain objectives, i.e. the degree to which a supply chain fulfils end-user requirements
+concerning the key performance indicators at any point in time, and at what total cost. Key
+Performance Indicators (KPIs) refer to a relatively small number of critical dimensions which
+contribute more than proportionally to the success or failure in the marketplace (Christopher, 1998).
+KPIs compare the efficiency and/or effectiveness of a system with a norm or target value. A welldefined set of supply chain performance indicators will help establish benchmarks and assess changes
+over time. A good example is the Supply Chain Operations Reference-model (SCOR) developed by the
+Supply-Chain Council (SCC) as the cross-industry standard for SCM (see www.supply-chain.org).
+SCOR provides an integrated, heuristic approach for supply chain improvement via (i) the modelling
+of business processes, (ii) the definition of SCM metrics for evaluating the supply chain and rapidly
+identifying high value opportunities and (iii) the identification of best practices to provide a candidate
+list of improvement options.
+
+Supply Chain Management
+Supply Chain
+Business
+Processes
+
+2) What processes should be
+linked with each of these
+key supply chain members?
+
+Supply Chain
+Objectives
+
+Supply Chain
+Performance
+Supply Chain
+Management
+Components
+
+3) What level of integration
+and management should be
+applied for each process link?
+
+Supply Chain
+Network
+Structure
+
+1) Who are the key supply
+chain members with whom
+to link processes?
+
+Figure 4. Key decisions in SCM (adapted from Lambert and Cooper, 2000).
+Supply chains can be managed as a single entity through the dominant member or, alternatively,
+through a system of partnerships requiring well-developed co-operation and co-ordination.
+Formulating supply chain objectives is therefore not an easy task since all partners have to agree on
+the selection of indicators, the definition of the indicators and the target values. The present
+performance measures used in most companies have several problems that prevent them from
+effectively measuring total supply chain performance. Supply chain participants should start with
+jointly identifying order winners and satisfiers for the supply chain, because these provide the
+intended direction of control actions to improve supply chain performance. By analysing the goals of
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 7
+
+each individual organisation and by identifying market requirements, integrated KPIs can be defined
+and norms established. We will now discuss the three key decisions in more detail.
+1. Who are the key supply chain members with whom to link processes?
+The first step in analysing and redesigning a supply chain is to determine the organisations
+that are part of the supply chain under investigation. For most manufacturers, the supply chain looks
+less like a pipeline or chain than an uprooted tree, where the branches and roots are the extensive
+network of customers and suppliers. The question is how many of and how intensive these branches
+and roots need to be managed. Management will need to choose the level of partnership appropriate
+for each particular supply chain member knowing that firm capabilities in time and effort are limited
+(Lambert & Cooper, 2000). With some suppliers partnerships are required since the raw materials
+they deliver are crucial; others are less important and only have to be monitored. The key is to sort
+out which members are critical to the success of the company and the supply chain – in line with the
+supply chain objectives - and, thus, should be allocated managerial attention and resources.
+2. What processes should be linked with each key member?
+Successful SCM requires a change from managing individual business processes within one
+organisation to integrating activities over organisations into key supply chain processes. Lambert and
+Cooper (2000) have identified eight key business processes that could be integrated with the key
+members in the supply chain (see table 3). It is usually not necessary to integrate all processes; e.g.
+if the order winner is responsiveness focus should be on order fulfilment, whereas if the order winner
+is innovation focus should be on joint product development.
+Table 3. Business processes that could be integrated in the supply chain.
+Business process
+Customer relationship management
+Customer service management
+
+Demand management
+Order fulfilment
+Manufacturing flow management
+Procurement
+Product development and
+commercialisation
+Returns process
+
+General description
+Specifying service level agreements with key customers
+Providing the customer with real-time information on promised shipping dates and
+product availability through interfaces with the organizations’ production and
+distribution operations
+Balancing the customer’s requirements with the firm’s supply capabilities
+Delivering products and meeting customer need dates
+Pulling product through the plant based on customer needs
+Developing strategic plans with suppliers to support the manufacturing flow
+management process and development of new products
+Customers and suppliers must be integrated into the product development process in
+order to reduce time to market
+Aligning processes to realise an efficient return of re-usable items
+
+SCM literature suggests several redesign strategies to improve the effectiveness and efficiency of
+these business processes in the supply chain. Van der Vorst and Beulens (2002) have identified a
+generic list of SCM redesign strategies to facilitate the redesign process and accomplish joint supply
+chain objectives. These are the following:
+?? Redesign the roles and processes performed in the supply chain (e.g. change or reduce the
+number of parties involved, re-allocate roles and eliminate non-value-adding activities);
+?? Reduce customer order lead times (e.g. change the position of the decoupling point (see the next
+section), implement ICT systems for information exchange and decision support, reduce waiting
+times, increase manufacturing flexibility);
+?? Create information transparency (e.g. establish an information exchange infrastructure in the
+supply chain and exchange demand/supply/inventory or WIP information, standardise product
+coding);
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 8
+
+?? Synchronise logistical processes to consumer demand (e.g. increase execution frequencies of
+production and delivery processes, decrease the lot sizes); and
+?? Co-ordinate and simplify logistical decisions in the supply chain (e.g. co-ordinate lot sizes,
+eliminate human interventions, differentiate and simplify products, systems and processes).
+Van der Vorst and Beulens (2002) propose that in order to identify the most effective strategies in a
+specific supply chain one should focus on the identification and management of the sources of
+uncertainties in the supply chain’s decision-making processes. We refer to their article for an
+elaborated discussion.
+3. What level of integration and management should be applied to each process linkage?
+The literature on business process reengineering and SCM suggests numerous possible
+components that must receive managerial attention when managing supply relationships. Lambert
+and Cooper (2000) distinguish two groups of management components; see table 4. The first is the
+physical and technical group, which includes the most visible, tangible, measurable and easy-tochange components. The second group, the managerial and behavioural components, defines the
+organizational behaviour and influences how the physical and technical management components can
+be implemented. If the managerial and behavioural components are not aligned to drive and reinforce
+an organizational behaviour supportive to the supply chain objectives and operations, then the supply
+chain will likely be less competitive and profitable. If one or more components in the physical and
+technical group are changed, then management components in the managerial and behavioural
+group likewise may have to be re-adjusted. Especially the managerial and behavioural components
+are well-known obstacles to SCM as they might hinder the development of trust, commitment and
+openness between supply chain members (as we will discuss in section 4).
+Table 4. Two groups of management components that have to be aligned in the supply chain.
+Physical and technical components
+?? planning and control methods (e.g. push or pull control);
+?? work flow/activity structure (indicates how the firm
+performs its tasks and activities);
+?? organisation structure (indicates who performs the tasks
+and activities, e.g. cross-functional teams);
+?? communication and information flow facility structure
+(e.g. information transparency);
+?? product flow facility structure (e.g. location of
+inventories, decoupling points).
+
+Managerial and behavioural components
+?? management methods (i.e. the corporate
+philosophy and management techniques);
+?? corporate culture and attitude;
+?? risk and reward structure;
+?? power and leadership structure.
+
+Concluding remark
+The groundwork for successful SCM is established by an explicit definition of the supply chain
+objectives and related key performance indicators and, successively, by taking the three key SCM
+decisions. The optimal supply chain design will differ for each supply chain depending on the
+competitive strategy and the market, product and production characteristics. To illustrate this, the
+next section will discuss in more detail one of the main trade-offs to be made in SCM, that is, the
+trade-off between efficient and responsive supply chains.
+
+3.3. The trade-off between efficiency and responsiveness
+Marshall Fisher (1997) suggests that the nature of the demand for a product should be carefully
+considered before a supply chain strategy is (re)devised. Fisher divides products into two categories:
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 9
+
+?? primarily functional products satisfying basic needs which have stable, predictable demand and
+long life cycles typically with high levels of competition resulting in low profit margins;
+?? primarily innovative products with higher profit margins, have unpredictable demand and short
+life cycles and, usually higher levels of product variety.
+Fisher states that the root cause of the product availability problem in present-day supply chains is a
+mismatch between the type of product and the type of supply chain. Supply chains that deal with
+functional products should focus on efficiency / leanness to minimise the physical costs related to
+production, transportation and inventory storage. On the other hand, supply chains that deal with
+innovative products should be designed focussing on responsiveness / agility to minimise market
+mediation costs (i.e. the cost that arise when the variety of products reaching the marketplace does
+not match what consumers want to buy resulting in lost sales opportunities and dissatisfied
+customers). Table 5 compares both types of supply chains.
+Table 5. Physically efficient versus market-responsive supply chains (Fisher, 1997).
+Physically efficient (lean) process
+??Supply predictable demand efficiently
+at the lowest possible cost
+
+Primary purpose
+
+Manufacturing focus
+Inventory strategy
+Lead-time focus
+Approach to choosing
+suppliers
+Product -design strategy
+
+??Maintain high average utilisation rate
+??Generate high returns and minimise
+inventory throughout the chain
+??Shorten lead time as long as it does
+not increase cost
+??Select primarily for cost and quality
+??Maximise performance and minimise
+cost
+
+Market-responsive (agile) process
+??Respond quickly to unpredictable
+demand in order to minimise stock
+outs, forced markdowns, and
+obsolete inventory
+??Deploy excess buffer capacity
+??Deploy buffer stocks of parts or
+finished goods
+??Invest aggressively in ways to reduce
+lead time
+??Select primarily for speed, flexibility
+and quality
+??Use modular design in order to
+postpone product differentiation for
+as long as possible
+
+What we have seen in the last 15 years is that consumers and retailers have become much more
+demanding and product-life cycles have shortened significantly in all kind of sectors (e.g. computers,
+food, automotive). In today’s marketplace the keys to long-term competitive advantage are flexibility
+and customer response. This has resulted in functional products becoming innovative products. The
+problem is that the supply chains that produce those innovative products are still efficient. According
+to Fisher they should transform towards responsive customer-driven supply chains in order to be
+competitive again; see figure 5.
+
+Efficient (lean)
+supply chain
+Responsive (agile)
+supply chain
+
+Match
+
+Mismatch
+
+Mismatch
+
+Match
+
+Functional
+products
+
+Innovative
+products
+
+Figure 5. Supply chain design in relationship with the nature of product demand.
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 10
+
+It is not necessarily the case that a complete supply chain should be either lean or agile.
+Mason-Jones et al. (2000) and Christopher and Towill (2000) expanded on the thoughts of Fisher and
+also state that the supply chain strategy and structure should be in tune with the characteristics of
+the marketplace. They focus on hybrid strategies by integrating the lean and agile paradigms and
+introduce the concept of leagility, i.e. “the combination of the lean and agile paradigm within a total
+supply chain strategy by positioning the decoupling point so as to best suit the need for responding to
+a volatile demand downstream, yet providing level scheduling upstream from the decoupling point”.
+The decoupling point (DP) refers to the inventory point the most upstream the supply chain
+at which real demand penetrates upstream in a supply chain. Downstream of the DP the material flow
+is controlled by customer orders/demand and the focus is on customer lead time and flexibility
+(employing small batch sizes). Upstream towards suppliers, the material flow is controlled by
+forecasting and planning, and the focus is on efficiency (usually employing large batch sizes). The DP
+creates the opportunity for upstream activities to optimise independently from irregularities in market
+demand. It must be determined where the decoupling point should be for each product-market
+combination or product group in the company. Therefore a company can have several different DP’s
+and even a single product can have more than one, as it can serve multiple product-market
+combinations. However, the control complexity will increase significantly when the number of DP’s
+increases. Hoekstra and Romme (1992) distinguish five positions of the decoupling point depicted in
+Figure 6.
+
+Production
+of half
+fabricats
+
+Suppliers
+
+Local warehouse
+
+of end
+products
+
+Raw materials
+
+Distribution
+End product
+
+DP
+1
+
+ies
+ivit y
+t
+c
+a enc
+en
+i
+riv effic
+d
+g
+in on
+nn
+s
+Pla Focu
+DP
+4
+DP
+5
+
+Customers
+
+Deliver from local stock
+
+DP
+2
+Make to stock
+DP
+3
+
+ies
+vit s
+i
+t
+c
+Assemble/pack and deliver on order
+a
+es
+ven siven
+i
+r
+r d on
+rde resp
+o
+er n
+Produce, pack and deliver on order
+om cus o
+t
+s
+Cu Fo
+
+Purchase, produce, pack and deliver on order
+
+Figure 6. Five positions of the DP (after Hoekstra & Romme, 1992).
+There are many factors exerting an upstream or downstream influence on the DP. It is a
+balancing process between (i) market related factors, such as the delivery lead time requirements set
+by the market, product demand uncertainty, product range and product customisation requirements;
+(ii) product related factors, such as possibilities for modular product design and product customisation
+opportunities; and (iii) production related factors, such as the production lead time and the flexibility
+of the production process (Olhager, 2003). All these factors indicate to what extent it is possible or
+reasonable to make products to order or to stock; e.g. the more unpredictable the demand, the more
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 11
+
+responsive the supply chain should be. And the longer the delivery lead time can be, the more
+efficiently the supply chain can be managed.
+The general trend for the position of the DP is to shift upstream the supply chain, i.e. the
+planning and execution of activities at industrial manufacturers and primary producers are more and
+more based on consumer demand information (van der Vorst et al., 2001). A good example is the
+fabrication of cars; nowadays cars are assembled only after the customer order has been received
+requiring very flexible manufacturing systems (see also box 2 and 5).
+Box 2. Increasing responsiveness by relocating the decoupling point in the supply chain
+15 years ago, the computer industry was characterised by delivery lead times up to multiple weeks – mainly
+because the production lead time was very long. Since then, customer requirements have changed resulting in a
+request for short delivery lead times and a large product portfolio. Producers have reacted to this by shifting the
+decoupling point upstream in the supply chain. In order to keep the business profitable they focused on (1)
+internet technology to establish high-speed information exchange and have direct customer order information
+(thereby eliminating the dealer network), (2) product standardisation and modularisation (by using generic or
+modular inventory the final commitment to a specific customer order is postponed), (3) close partnerships with
+suppliers that deliver the requested modules at the requested time and place, (4) increased production/assembly
+flexibility, and (5) fast transportation structures. Nowadays, computers are assembled to order and the requested
+configuration can be delivered within a few days (see for example, www.dell.com).
+
+3.4. Benefits of Supply Chain Management
+The profitability of the supply chain could be improved drastically via better delivery performance
+(improved responsiveness and reliability of deliveries, fewer stock outs, higher product quality, more
+receiver-friendly loads) and increased information availability (better demand insight, more
+predictable order cycles, accurate, real-time) at the operational level and a reduction of time-tomarket at the tactical and strategic level. The potential for improvement when applying SCM-concepts
+is based on the reduction of inventory-carrying (reduced overstocks, faster inventory turns) and
+transportation costs (pooling of transport), the reduction of indirect and direct labour costs and the
+increase of sales and sales margins.
+Many companies are re-engineering and rationalising their supply chain network to obtain these
+benefits. The next section will discuss the currently most prominent SCM projects in practice.
+
+4. Practices in Supply Chain Management
+4.1. An overview
+In the last ten years numerous projects on supply chain collaboration were done to analyse how
+firms could use their suppliers’ and customers’ processes, information, technology, and capability to
+enhance competitive advantage. Most projects were done in the front-end of supply chains, that is in
+the interface between retailer and manufacturer. But also in the interface between manufacturers and
+suppliers and/or third parties numerous enhancements were made. The last years manufacturers
+have been instigated to focus on core business resulting in the outsourcing of non-core activities such
+as transportation and the centralisation of manufacturing activities. The practical experiences can be
+categorised into the following areas (see figure 7), which we will discuss in more detail in the coming
+sections:
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 12
+
+?? Collaborative demand planning and replenishment: retailers and manufacturers work together to
+assess consumer demand and to determine the most appropriate supply management and
+replenishment approach to meet this consumer demand;
+?? Collaborative production: manufacturers and suppliers work together to harmonise the supply of
+raw materials and the production of end products in such a way as to minimise the stocks within
+the supply chain and maximise the responsiveness;
+?? Collaborative logistics planning: co-ordinating transport and warehousing between the various
+parties involved, including transshippers, logistic service providers, carriers and recipients.
+A precondition for supply chain coordination is the establishment of connectivity and transparency,
+i.e. interconnecting the information systems of the successive partners in the supply chain and
+exchange information via this infrastructure.
+
+Connectivity and transparency
+
+Collaborative
+production
+
+Collaborative
+demand planning
+& replenishment
+
+Collaborative logistics planning
+
+Figure 7. Areas for collaboration in the supply chain (after Barratt and Oliveira, 2001).
+Although a lot of research and practical experience with SCM-issues has been obtained, we have
+to acknowledge that few companies have actually established a management environment that
+supports the integration required for effective SCM. Instead, many chains are still functionally
+oriented and are characterised by a lack of trust and credibility among the supply chain organisations.
+In the coming sections we will focus on companies and efforts that have excelled in SCM. The reader
+should keep in mind that they are the front-runners.
+
+4.2. Collaborative demand planning and replenishment
+Vendor Managed Inventory (VMI) is a technique developed in the mid 1980s, whereby the
+supplier has the sole responsibility for managing the customer’s inventory policy, including the
+replenishment process. VMI was adopted by many companies in different business sectors; two of the
+first companies to put the theory into practice were Procter & Gamble and Wal-Mart in the USA (see
+box 3). The major weakness of VMI lies in the insufficient visibility of the whole supply chain; pointof-sale (POS) data as well as the backroom inventory level data are disregarded whilst the
+replenishment process (and the inventory policy) is based in the variation of stock level in the
+customer’s main warehouse or distribution centre (Barratt and Oliveira, 2001). This has led the search
+for alternative, more effective, techniques.
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 13
+
+Box 3. Wal-Mart and Proctor & Gamble
+Several well-known firms involved in supply chain type relationships (e.g., Procter & Gamble (P&G) and WalMart, the US’s fastest growing retailer) owe much of their success to the notion of information and the systems
+utilised to share this information with one another. Through state-of-the-art information systems, Wal-Mart
+shares point-of-sale information from its many retail outlets directly (via satellite) with P&G and other major
+suppliers. The product suppliers themselves become responsible for the sales and marketing of their products in
+the Wal-Mart stores through easy access to information on consumer buying patterns and transactions. P&G
+expanded t hese working methods with a new distribution system that allowed customers to buy and receive all
+P&G products together on the same truck – regardless of which business sector manufactured the brand. This
+development, together with the introduction of new pricing structures, pallet standardisation, electronic invoicing
+and new procedures for handling damaged products resulted in huge savings. Because of the speed of this
+system, Wal-Mart pays P&G after the merchandise passes over the scanners as the consume r goes through the
+checkout lane.
+
+The first robust initiative created to enable integration in the food supply chain dates back to
+1992, when Kurt Salmon Associates (1993) issued a report on Efficient Consumer Response. Supply
+chain benefits could be achieved by excelling in four core strategies: efficient promotions, efficient
+replenishment, efficient store assortment and efficient product introductions. The report proposed, for
+the first time, the driving need to “develop a trust-based relationship between manufacturers and
+retailers (including suppliers and customers in general), with the sharing of strategic information in
+order to optimise overall supply chain results’’. Having this requirement outlined, the various sectors
+of the industry began to develop a number of techniques to make the ECR promise a reality. More
+information can be found on www.ecrnet.org with hyperlinks to all national initiatives and currently
+running projects.
+The logistical branch of ECR, Efficient (or Continuous) Replenishment (ER), moves one step
+ahead of VMI and reveals stock levels in retailers’ stores and uses POS data to generate a sales
+forecast. It aims for a.o. the establishment of responsive and efficient replenishment by shifting the
+decoupling point as far upstream the supply chain as possible. ER uses concepts such as automatic
+replenishment systems based on (i) the sales forecast, built from historical demand data and no
+longer purely based on the variations of inventory levels at the customers’ main stock-holding facility,
+(ii) high frequent deliveries with short lead times, and (iii) cross docking, i.e. eliminating product
+storage at warehouses where products received are turned around for shipment to retail stores within
+24 hours. The process of creating the sales pattern and then predicting future events is ER’s major
+weakness (Barratt and Oliveira, 2001).
+Collaborative Planning, Forecasting & Replenishment (CPFR) deals with this weakness and has
+been described as a step beyond ECR, because of the high level of co-operation and collaboration
+needed. Rather than trying to independently project demand patterns, buyers and sellers share
+information in advance and work together to develop realistic, informed, and detailed estimates that
+can be used to guide business operations (Stank et al. 1999). Utilizing principles of CPFR, a retailer
+and manufacturer work together to jointly create a single, combined promotion calendar in advance
+of the selling period which is subsequently up-dated on a real-time basis over the Internet. The
+retailer also provides point-of-sale (POS) data, longer-term promotional plans, prescribed inventory
+levels, etc. for the consumer goods trading partner. Both firms create sales and order forecasts and a
+collaborative system is used to compare the retailer’s forecast to the consumer goods firm’s own
+forecast. Discrepancies or exceptions are identified and appropriate managers advised. Working
+together, the “team” decides on one, i.e. collaborative, forecast extending across the supply chain.
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 14
+
+It is clear that this intensive collaboration is not suitable for all businesses; the additional
+management attention is only fruitful if the product volume in the relationship is large enough,
+demand uncertainty is high and the partner (wants to!) deliver additional knowledge/information
+which reduces the forecast error. If volumes are small it might be wiser to use low delivery
+frequencies. This has been called Supply Chain Synchronization. It aims to synchronise the
+replenishment to the efficient production schedule facilitating full truckload (FTL) transport and shift
+stocks downstream to the stores where they are needed.
+Practice shows that the true benefits are realized only when collaborative plans are linked to
+operational change; the information must also be used for production and distribution planning.
+Accurate demand planning enables manufacturing to postpone production of anticipatory stock and
+can also result in shorter, more predictable order cycles. Guaranteed sales targets allow logistics and
+distribution managers to make better use of storage and delivery resources to reduce costs as well as
+to increase customer service by tailoring operations. Retail receiving departments, for example, may
+work more closely with a manufacturer’s shipping department to allow shipments to be loaded in the
+order in which products are needed, facilitating off-loading and sorting time and further streamlining
+cycle times (Stank et al. 1999). For more information on CPFR we refer to www.cpfr.org.
+Box 4. Shortened Fresh Collection (www.klict.org)
+Nowadays, consumers and retail demand a varied assortment of floricultural products and a year round supply of
+top quality produce, all for a reasonable price. To meet the growing consumer demands the floricultural chains
+will have to be reversed from product oriented (push) to market-oriented (pull). A consumer driven chain can
+only be successful if the chain is organised in a flexible, efficient and responsive way. In order to speed up the
+flow of goods throughout the chain, from the grower to the retailer or florist, new logistical chain concepts have
+been developed in the project “Shortened Fresh Collection”. These new concepts where inspired by the need to
+deliver more frequent, in lower batches within a lead time shorter than the current 27 hours.
+The project aimed at optimising the logistical processes of the ornamental plant cultivation network in Bleiswijk,
+the Netherlands. The objective was to clarify and significantly reduce the lead time of the product range for a
+supply chain, from the moment the exporter places an order to the time of actual delivery to the exporter’s
+premises. Participants in the project were FloraHolland Flower Auction, growers, wholesaler Lemkes and carriers.
+Via chain analysis, simulation of logistical flows and a pilot study new logistical chain concepts were tested in
+practice and evaluated on environmental burden, feasibility, total costs and lead time. The results showed that
+lead times could be significantly decreased at lower costs. It requires: (1) the use of electronic ordering systems;
+(2) reduction of waiting times in the supply chain implicating a change in the working methods of especially
+growers; (3) collaboration in the transport of plants from specific regions.
+The project showed that “people make the difference” in vertical chain partner shipping. Time is needed to build
+trust and to create commitment between t he successive links in the chain. It requires the use of tools like
+workshops with the partners, chain performance measurements, agreements on responsibilities and the division
+of costs and revenues. In the project, trust between the partners in the chain has grown significantly. Especially
+the understanding of each other’s role, added value and wins for chain cooperation lead to a common
+competence to act as a whole. The chain as a whole has changed their way of working, from a daily trade
+operation being concerned with daily prices and orders, into a long term partner shipping in which joint
+consumer concern is leading and supply performance is under control. This should be followed by scaling up by
+means of developing a universally applicable solution wit h which to reduce the lead times of an ornamental plant
+cultivation cluster.
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 15
+
+4.3. Collaborative production
+The second area where a lot of SCM practices are achieved is collaborative production. The need
+for customer-order driven supply chains that are responsive at low cost has placed a high demand on
+the flexibility and efficiency of the manufacturing processes. These are enhanced by several practices:
+product standardisation, re-allocation of production and warehousing facilities, outsourcing of
+production volume, sharing capacity of a single plant, and supplier partnerships/contracting.
+Especially in food industry were one has to deal with seasonality in supply and perishable products,
+production capacities are often limited. Supplier contracting is a common way of assuring supply of
+the right products at the right time at the right place. Several manufactures have started to cooperate
+within a single plant to exchange capacities and increase manufacturing flexibility (e.g. automotive,
+call centres and printing services). Others have started partnerships with its suppliers and have
+integrated supplier activities within their plant – see box 5.
+Box 5. The Smart car (van Hoek and Harrison, 2003)
+Micro Compact Car AG (MCC), a wholly-owned subsidiary of Daimler-Benz, is the company behind Smart.
+Together these manufacturers have developed a new supply chain concept that went beyond existing practices.
+It is characterised as follows:
+?? customers can say how they want their product to be configured;
+?? cars are built from about 50 modules to customer order with lead-times counted in weeks;
+?? dealers/importers have been eliminated in the supply chain; smart centres can order directly at the plant;
+?? suppliers have co-invested in the production location and take a greater share in the final assembly process;
+?? the value added during final assembly, which takes just 4,5 hours, is just 10 per cent of the production cost
+price because of the modular product layout. This enables MCC to supply customer choice with minimum
+product complexity, facilitates ‘upgrading’ during its lifetime, and permits engineers to renew the car or
+extend the product line within short time frames. Features that might disturb production if made optional
+(such as ABS, etc.) are integrated as standards in the car.
+?? 7 first-tier suppliers are integrated in the assembly hall of MCC; their pre-assemble of modules is
+synchronised to the planning of the final assembly process and modules are delivered on a just -in-time
+basis. 16 non-integrated suppliers deliver the first-tier suppliers and MCC.
+Contracts with the suppliers are intended to last the entire life cycle of the SMART car, and are based upon
+single-sourced modules satisfying high-standard requirements. Each partner receives a share of the profit of
+each sold car (related to the investments made) instead of being paid for the modules delivered. To facilitate
+communication and the exchange of ideas among staff and partners, a central area of the factory (which in total
+covers 68 hectares!) is designed as a open meeting room. Furthermore, standard performance measures for
+each sub-section of the process are displayed electronically for everyone to see.
+
+4.4. Collaborative logistics planning
+The third area for SCM projects is related to the transportation of goods between stages in the
+supply chain. Whereas in the past every actor organised its own transport, technological advances in
+logistics and ICT enable the development of new paradigms based on cooperation. This facilitates the
+consolidation of goods which decreases costs and increases responsiveness. A good example is the
+development of Manufacturing Consolidation Centres by Lever Fabergé, Kimberly Clark, Ola and Iglo
+Mora. In these centres many small incoming lots of material from different suppliers, that are to be
+delivered to the same customer, are consolidated into fewer, larger loads for efficient onward
+despatch.
+Recently, activities have been deployed to evaluate the concept of orchestration in which a fourth
+party manages the execution of business activities (e.g. transportation) on behalf of the business
+owners. Logistical service providers can adopt the orchestrator role and perform the management of
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 16
+
+logistics processes for manufacturers and retailers. This requires the support of sophisticated ICT
+tools that provide product flow monitoring capabilities, resource capacity and product visibility and
+flow planning and scheduling of information. See box 6 for an interesting case.
+Box 6. An internet Hub for the Vos Logistics Supply Chain (Hillergersberg et al., 2003)
+Vos Logistics is a third party logistics service provider that is active in adding value to its portfolio of logistics
+services. Vos is one of the larger, asset based, transport and logistical companies on the European Market. The
+company employs more than 4000 people working at more than 30 offices throughout Europe. The firm’s longterm strategy is to become a full logistics service provider for its customers, offering services such as
+warehousing, transportation management and supply chain (re)design.
+The case is concerned with the Vos sea containers transport from its Veendam terminal to the Rotterdam
+harbour for customers such as Avebe, Friesland Dairy Foods, Kappa, Akzo and Dow Chemical. Dependent on the
+cost and speed requirements of the customer, transport takes place over road, water and rail connections.
+Several parties are involved in the supply chain such as rail operators, barge operators, charters, terminals, etc.
+Current limitations in the supply chain are the following: there is lack of real-time information on the status of
+containers, a large number of containers are involved in exceptions such as no shows and delays, and the same
+order information is entered in the system multiple times. Although the transport of containers seems simple,
+many parties are involved, and many pieces of information from these parties need to be consolidated at the
+right place at the right time in order to avoid operational problems.
+Early 2000, Vos and Informore, an ICT company that specializes in providing logistics hubs, initiated a project to
+create a central logistics information hub that would register and communicate data within the supply chain and
+optimises the planning and monitoring of the transportation system. Using the hub, Vos can monitor the
+information exchange and the activities taking place on a real-time basis. Other parties connected can monitor
+part of the information in the hub of interest to them. The case showed that there were a lot of benefits to be
+obtained: chain transparency and coordination resulted – via the hub – in shorter throughput times and
+increased resource utilisation and productivity. For an elaborated description of the case, we refer to
+Hillergersberg et al. (2003)
+
+One of the latest trends is called Factory Gate Pricing (FGP) – which makes the retailer the
+orchestrator of transportation. The manufacturer makes its products available at its warehouse and
+gets the price of goods without transportation costs. The logistic service providers that also take care
+of the distribution from retail warehouse to outlets and returns flows, can optimize the total flows by
+incorporating the flows from suppliers. Whether FGP is interesting depends on demand characteristics
+(volume/variability), type of replenishment (degree of responsiveness), product characteristics
+(perishability/value), the geographical distances and infrastructural characteristics such as the
+number of docks available. When we compare FGP with CPFR, we can conclude that FGP is
+interesting when volume and demand variability are low; CPFR is interesting when the volume and
+the demand uncertainty are high. The main barrier for manufacturers to implement FGP are the
+required internal changes at suppliers (to facilitate the pull flow), the reduction of transport volume
+(which makes the efficient planning of the remaining flows difficult) and the required transparency in
+product prices and transportation costs.
+
+5. Concluding remarks
+Despite many considerable efforts SCM is to a large extent still only a promise. Most supply
+chains are characterised by a lack of chain transparency and co-operation, and SCM projects usually
+deal with only a part of the supply chain. Most SCM-concepts (such as VMI, CPFR and FGP) require
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 17
+
+transparency and the open calculation of costs and revenues to allocate them between supply chain
+partners. However, the definition of cost drivers and the related norms is not an easy task. It requires
+trust and an in-depth insight in each other processes, which is difficult, since the widely followed
+competitive model suggests that companies will lose bargaining power - and therefore the ability to
+control profits - as suppliers or customers gain knowledge. Although organizations perceive the
+benefits of SCM, main barriers to the implementation are the lack of trust, diverging objectives,
+compatibility of managerial philosophy, and reward structures that support the chain objectives.
+The development of an ideal supply chain is not a one-time exercise. Each relationship has its
+own set of motivating factors driving its development as well as its own unique dynamic operating
+environment. Therefore, the duration, breadth, strength and closeness of the partnership will vary
+from case to case and from time to time.
+
+6. References
+Barratt, M. and A. Oliveira, Exploring the experiences of collaborative planning initiatives,
+International Journal of Physical Distribution & Logistics Management, Vol. 31 No. 4, 2001, pp.
+266-289.
+Bechtel, C., Jayaram, J. (1997), Supply Chain Management: a strategic perspective, International
+Journal of Logistics Management, Vol. 8, No. 1, pp. 15-33
+Chen, F., Drezner, Z., Ryan, J.K., Simchi-Levi, D. (1999), The bullwhip effect: managerial insights on
+the impact of forecasting and information on variability in a supply chain, in: Quantita tive
+models for Supply Chain Management, S. Tayur, R. Ganeshan, M. Magazine (Eds.), Kluwer,
+417-439
+Chopra, S. and P. Meindl (2001), Supply Chain Management, Prentice Hall
+Christopher, M.G. (1998), Logistics and Supply Chain Management; strategies for reducing costs and
+improving services, London: Pitman Publishing
+Christopher, M., Towill, D.R. (2000), “Supply chain migration from lean and functional to agile and
+customised,” Supply Chain Management, Vol. 4, No. 5, pp. 206-213.
+Cooper, M.C., Ellram, L.M. (1993), Characteristics of SCM and the implications for purchasing and
+logistics strategy, The International Journal of Logistics Management, 4, 2, 13-24
+Cooper, M.C., Lambert, D.M., Pagh, J.D. (1997), Supply Chain Management: more than a new name
+for logistics, International Journal of Logistics Management, 8, 1, 1-13
+Davenport, T.H. (1993), Process Innovation; reengineering work through information technology,
+Harvard Business School Press
+Evans, G.N., Towill, D.R., Naim, M.M. (1995), Business process re-engineering the supply chain,
+Production Planning and Control, 6, 3, 227-237
+Forrester, J. (1961), Industrial Dynamics, MIT press
+Hillegersberg , J. van, J. Tsjeng, T. Zuidwijk, M. van Oosterhout, J. van Nunen (2003) Hub to higher
+performance; an internet hub for the Vos Logistics Supply Chain, in: Verduijn, T., B., van der
+Loo (2003), Intelligent Logistics Concepts – improving your supply chain with collaboration and
+ICT, Eburon Publishers, Delft, The Netherlands, pp. 45-76
+Hoek, Remko van, Alan Harisson (2003) The Smart car and smart logistics, in: Cases in Operations
+Management, Robert Johnston et al., third edition, Pearson Education, pp. 316-326
+Hoekstra, Sjoerd J. and Jac H.J.M. Romme (1992) Integral logistic structures: developing customer
+oriented goods flow, London: McGraw Hill
+Kurt Salmon Associates, Inc. (1993) Efficient Consumer Response. Enhancing consumer value in the
+grocery industry, Washington: Food Marketing Insitute
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+
+Page 18
+
+Lambert, D. and Martha C. Cooper (2000) Issues in Supply Chain Management, Industrial Marketing
+Management 29, 65–83
+Lee, H.L., Padmanabhan, V., Whang, S. (1997), Information distortion in a supply chain: the bullwhip
+effect, Management Science 43, 4, 546-558
+Lewis, J.C., Naim, M.M. (1995), Benchmarking of aftermarket supply chains, Production Planning and
+Control, 6, 3, 258-269
+Fisher, Marshall L. (1997) “What is the right supply chain for your product?” Harvard Business
+Review, March-April, pp. 105-116
+Mason-Jones, Rachel, Ben Naylor and Denis R. Towill (2000) “Engineering the leagile supply chain.”
+International Journal of Agile Management Systems, Vol. 2, No. 1, pp. 54-61
+Olhager,J. (2003), Strategic positioning of the order penetration point, International Journal of
+production Economics, 85, p. 319-329
+Oliver, R.K., Webber, M.D. (1982), Supply Chain Management: Logistics catches up with strategy,
+Outlook, cit. Christopher, M.C. (1992), Logistics, The strategic issue, London: Chapman and
+Hall
+Porter, M.E. (1985), Competitive advantage, Creating and sustaining superior performance, New
+York: Free Press
+Simchi-Levi, D., P. Kaminski, and E. Simchi-Levi (2000) Designing and managing the supply chain –
+concepts, strategies and case studies, McGraw-Hill
+Stank, T.P., P.J. Daugherty and C.W. Autry (1999) Collaborative planning: supporting automatic
+replenishment programs, Supply Chain Management, Volume 4, Number 2, pp. 75–85
+Sterman, J.D. (1989), Modeling managerial behavior: misperceptions of feedback in a dynamic
+decision making experiment, Management Science, 35, 3, 321-339
+Towill, D.R. (1997), The seamless supply chain – the predator’s strategic advantage, International
+Journal of Technology Management, Special issue on Strategic Cost Management, 13, 1, 37-56
+Vorst, van der Jack G.A.J. (2000) Effective food supply chains; generating, modelling and evaluating
+supply chain scenarios, PhD-thesis Wageningen University, the Netherlands.
+Vorst, van der, J.G.A.J., Dijk, S.J. van, Beulens, A.J.M. (2001) Leagile supply chain design in food
+industry; an inflexible poultry supply chain with high demand uncertainty, the International
+Journal on Logistics Management, Vol. 12, No. 2., pp. 73-85
+Vorst, van der, J.G.A.J., Beulens, A.J.M. (2002), Identifying sources of uncertainty to generate supply
+chain redesign strategies, International Journal of Physical Distribution and Logistics
+Management, Vol. 32, No. 6, pp. 409-430
+
+Supply Chain Management: theory and practices (2004) - Dr. Ir. Jack G.A.J. van der Vorst
+View publication stats
+
+Page 19
+
+
